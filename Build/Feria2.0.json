@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Feria",
+"productVersion": "0.1",
+"dataUrl": "Feria2.0.data.unityweb",
+"wasmCodeUrl": "Feria2.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "Feria2.0.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
